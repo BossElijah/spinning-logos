@@ -3,7 +3,7 @@ import './App.css';
 
 const App = () => (
   <div className="App">
-    <a href="https://bosselijah.github.io">Home</a>
+    <a href="https://bosselijah.github.io" target="_blank" rel="noreferrer">Home</a>
     <img src={logo} className="app-logo app-logo-1" alt="logo" />
     <img src={logo} className="app-logo app-logo-2" alt="logo" />
     <img src={logo} className="app-logo app-logo-3" alt="logo" />
